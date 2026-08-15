@@ -1,0 +1,22 @@
+[
+    {
+        "student_id": "1",
+        "name": "sara",
+        "marks": 98.0
+    },
+    {
+        "student_id": "2",
+        "name": "bushra",
+        "marks": 69.0
+    },
+    {
+        "student_id": "3",
+        "name": "noor",
+        "marks": 80.0
+    },
+    {
+        "student_id": "4",
+        "name": "zara",
+        "marks": 78.0
+    }
+]
